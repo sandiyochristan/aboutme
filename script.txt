@@ -1,0 +1,18 @@
+<span id="a">root@cyb3rh4wk</span>:<span id="b">~</span><span id="c">#</span> cat whoami.txt<br/><br/>
+<!-- My favorite code quote, "<span id="k">Code for Everyone</span>". -->
+I'm Sandiyo Christan , an Offensive Security Researcher , Part-Time Bug bounty hunter , and (Google VRP Top Researcher). I'm a Application Security Analyst at <a href="https://tgcyberlabs.com/">TG Cyberlabs </a> by day and Red Team Researcher at <a href="https://bughunters.google.com/profile/bf92b329-8d5b-4d79-ba60-6266ca195e11" target="_blank">GOOGLE VRP</a> by night. My area of interest and expertise involves Offensive Security, Red Teaming, Open Source Intelligence, Application & Network Security and Host penetration testing. I'm a zealous learner of Information Security for more than 3 years now. 
+
+Here's my <a href="https://drive.google.com/file/d/1RjWbSF3JqyfJP90WZeK-tIuWXrQzH1LE/view?usp=sharing">resume</a> if you are looking to hire me.
+
+I create infosec related <a href="https://www.youtube.com/" target="_blank">videos</a> and write <a href="javascript:alert('Coming soon');" target="_blank">blog</a> where I establish my findings as a contribution to the InfoSec community. I also develop some cool <a href="https://github.com/sandiyochristan" target="_blank">Projects</a> occasionally.
+
+<span id="a">root@cyb3rh4wk</span>:<span id="b">~</span><span id="c">#</span> cat contact.txt
+
+You can reach me at <a href="mailto:sandichrist6@gmail.com">Mail</a>. 
+My other social media handles include 
+
+# <a href="https://www.linkedin.com/in/sandiyo-christan-bb3847198/" target="_blank">LinkedIn</a>
+# <a href="https://twitter.com/ChristanSandiyo" target="_blank">Twitter</a>
+# <a href="https://www.instagram.com/sandiyo_christan/" target="_blank">Instagram</a>
+
+<span id="a">root@cyb3rh4wk</span>:<span id="b">~</span><span id="c">#</span> exit 
