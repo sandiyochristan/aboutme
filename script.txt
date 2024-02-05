@@ -2,7 +2,7 @@
 <!-- My favorite code quote, "<span id="k">Code for Everyone</span>". -->
 I'm Sandiyo Christan , an Offensive Security Researcher , Part-Time Bug bounty hunter , and (Google VRP Security Researcher). I'm a Student by day and Red Team Researcher at <a href="https://bughunters.google.com/profile/bf92b329-8d5b-4d79-ba60-6266ca195e11" target="_blank">GOOGLE VRP</a> by night. My area of interest and expertise involves Offensive Security, Red Teaming, Open Source Intelligence, Application & Network Security and Host penetration testing. I'm a zealous learner of Information Security for more than 3 years now. 
 
-Here's my <a href="https://drive.google.com/file/d/1RjWbSF3JqyfJP90WZeK-tIuWXrQzH1LE/view?usp=sharing">resume</a> if you are looking to hire me.
+Here's my <a href="https://drive.google.com/file/d/1jt1MIPnCqhGZf0OdKjyxvKglW9bK8Y2u/view?usp=sharing">resume</a> if you are looking to hire me.
 
 I create infosec related <a href="https://www.youtube.com/" target="_blank">videos</a> and write <a href="javascript:alert('Coming soon');" target="_blank">blog</a> where I establish my findings as a contribution to the InfoSec community. I also develop some cool <a href="https://github.com/sandiyochristan" target="_blank">Projects</a> occasionally.
 
